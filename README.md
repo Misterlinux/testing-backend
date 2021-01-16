@@ -1,3 +1,14 @@
+Para usar el React desde el server utilizar el 
+## node server.js
+
+funciona con el 
+-http://localhost:3000/web
+-http://localhost:3000
+
+y responde en el postman
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
